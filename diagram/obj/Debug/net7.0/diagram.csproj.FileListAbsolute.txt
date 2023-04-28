@@ -1,0 +1,15 @@
+C:\Users\elena\Desktop\Итог_04\diagram\bin\Debug\net7.0\diagram.exe
+C:\Users\elena\Desktop\Итог_04\diagram\bin\Debug\net7.0\diagram.deps.json
+C:\Users\elena\Desktop\Итог_04\diagram\bin\Debug\net7.0\diagram.runtimeconfig.json
+C:\Users\elena\Desktop\Итог_04\diagram\bin\Debug\net7.0\diagram.dll
+C:\Users\elena\Desktop\Итог_04\diagram\bin\Debug\net7.0\diagram.pdb
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.AssemblyInfoInputs.cache
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.AssemblyInfo.cs
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.dll
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\refint\diagram.dll
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.pdb
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\diagram.genruntimeconfig.cache
+C:\Users\elena\Desktop\Итог_04\diagram\obj\Debug\net7.0\ref\diagram.dll
